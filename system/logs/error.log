@@ -1,0 +1,320 @@
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 32
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 32
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 32 in Entity, line: 32
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 32 and voices in Entity, line: 34
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 31 and monster in Entity, line: 71
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 71
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 32
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 32
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 32 in Entity, line: 32
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 32 and voices in Entity, line: 34
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 31 and monster in Entity, line: 71
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/bosses/Dragonking Zyrtarch.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 71
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 41
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 41
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 41 in Entity, line: 41
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 41 and voices in Entity, line: 43
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 40 and monster in Entity, line: 54
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 54
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 41
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 41
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 41 in Entity, line: 41
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 41 and voices in Entity, line: 43
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 40 and monster in Entity, line: 54
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Angry Plant.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 54
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 36 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 36 and voices in Entity, line: 38
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 35 and monster in Entity, line: 68
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 68
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 36 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 36 and voices in Entity, line: 38
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 35 and monster in Entity, line: 68
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Broken Shaper.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 68
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Ice Dragon.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Doomhauler.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Orclops Ravager.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 37
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 37
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 37 in Entity, line: 37
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 37 and voices in Entity, line: 39
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 36 and monster in Entity, line: 60
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 60
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 37
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 37
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 37 in Entity, line: 37
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 37 and voices in Entity, line: 39
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 36 and monster in Entity, line: 60
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Possessed Tree.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 60
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Fiend.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shadow Tentacle.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Shaper Matriarch.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Somewhat Beatable.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Spirit of Fertility.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Twisted Shaper.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 58
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Thorn Minion.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 36 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 36 and voices in Entity, line: 38
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 35 and monster in Entity, line: 59
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 59
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 36 in Entity, line: 36
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 36 and voices in Entity, line: 38
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 35 and monster in Entity, line: 59
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Keeper.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 59
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Time Waster.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Blightwalker.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Defiler.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbound Demon Outcast.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Unescaped '&lt;' not allowed in attributes values in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): attributes construct error in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Couldn't find end of Start Tag voice line 33 in Entity, line: 33
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: grunt line 33 and voices in Entity, line: 35
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Opening and ending tag mismatch: voices line 32 and monster in Entity, line: 56
+[Wed, 04 Jul 2018 15:24:36 +0200] [OTS_MonstersList.php] Fatal error: Cannot load C:/xampp/htdocs/data/monster/Hallsofhope/Unbeatable Dragon.xml - DOMDocument::loadXML(): Premature end of data in tag monster line 2 in Entity, line: 56
+[Wed, 04 Jul 2018 15:29:40 +0200] [createaccount.php] An error occorred while sending email: Could not instantiate mail function.. Error: Array
+(
+    [type] => 2
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+    [file] => C:\xampp\htdocs\global\system\libs\phpmailer\class.phpmailer.php
+    [line] => 702
+)
+
+[Fri, 06 Jul 2018 06:42:29 +0200] [createaccount.php] An error occorred while sending email: Could not instantiate mail function.. Error: Array
+(
+    [type] => 2
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+    [file] => C:\xampp\htdocs\global\system\libs\phpmailer\class.phpmailer.php
+    [line] => 702
+)
+
+[Fri, 06 Jul 2018 07:19:06 +0200] [createaccount.php] An error occorred while sending email: Could not instantiate mail function.. Error: Array
+(
+    [type] => 2
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+    [file] => C:\xampp\htdocs\global\system\libs\phpmailer\class.phpmailer.php
+    [line] => 702
+)
+
+[Sat, 07 Jul 2018 15:47:10 +0200] [createaccount.php] An error occorred while sending email: Could not instantiate mail function.. Error: Array
+(
+    [type] => 2
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+    [file] => C:\xampp\htdocs\global\system\libs\phpmailer\class.phpmailer.php
+    [line] => 702
+)
+
+[Sat, 07 Jul 2018 15:54:55 +0200] [createaccount.php] An error occorred while sending email: Could not instantiate mail function.. Error: Array
+(
+    [type] => 2
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+    [file] => C:\xampp\htdocs\global\system\libs\phpmailer\class.phpmailer.php
+    [line] => 702
+)
+
+[Mon, 27 Aug 2018 19:06:18 +0200] [load_config_file] Fatal error: Cannot load config.lua (C:/xampp/htdocs/config.lua). Error: 
+[Mon, 27 Aug 2018 19:18:49 +0200] [createaccount.php] An error occorred while sending email: Could not instantiate mail function.. Error: Array
+(
+    [type] => 2
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+    [file] => C:\inetpub\wwwroot\system\libs\phpmailer\class.phpmailer.php
+    [line] => 702
+)
+
+[Thu, 30 Aug 2018 22:33:11 +0200] [createaccount.php] An error occorred while sending email: Could not instantiate mail function.. Error: Array
+(
+    [type] => 2
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+    [file] => C:\inetpub\wwwroot\system\libs\phpmailer\class.phpmailer.php
+    [line] => 702
+)
+
+[Wed, 19 Sep 2018 19:38:23 +0200] [createaccount.php] An error occorred while sending email: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting. Error: 
+[Sat, 22 Sep 2018 07:01:31 +0200] [createaccount.php] An error occorred while sending email: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting. Error: 
+[Tue, 25 Sep 2018 20:46:09 +0200] [createaccount.php] An error occorred while sending email: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting. Error: Array
+(
+    [type] => 2
+    [message] => fsockopen(): unable to connect to 35.199.72.1:7171 (No connection could be made because the target machine actively refused it.
+)
+    [file] => C:\inetpub\wwwroot\system\libs\pot\OTS_ServerInfo.php
+    [line] => 61
+)
+

@@ -1,0 +1,72 @@
+--3600, 3630,3660, 3690,3720,3750,3780,3810,3840,3870,3900,3930
+.flip3600 {
+  transform: rotate(3600deg);
+}
+.flip3630 {
+  transform: rotate(3630deg);
+}
+.flip3660 {
+  transform: rotate(3660deg);
+}
+.flip3690 {
+  transform: rotate(3690deg);
+}
+.flip3720 {
+  transform: rotate(3720deg);
+}
+.flip3750 {
+  transform: rotate(3750deg);
+}
+.flip3780 {
+  transform: rotate(3780deg);
+}
+.flip3810 {
+  transform: rotate(3810deg);
+}
+.flip3840 {
+  transform: rotate(3840deg);
+}
+.flip3870 {
+  transform: rotate(3870deg);
+}
+.flip3900 {
+  transform: rotate(3900deg);
+}
+.flip3930 {
+  transform: rotate(3930deg);
+}
+
+.btn-spin {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f7ad2e), color-stop(1, #5a2900));
+	background:-moz-linear-gradient(top, #f7ad2e 5%, #5a2900 100%);
+	background:-webkit-linear-gradient(top, #f7ad2e 5%, #5a2900 100%);
+	background:-o-linear-gradient(top, #f7ad2e 5%, #5a2900 100%);
+	background:-ms-linear-gradient(top, #f7ad2e 5%, #5a2900 100%);
+	background:linear-gradient(to bottom, #f7ad2e 5%, #5a2900 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7ad2e', endColorstr='#5a2900',GradientType=0);
+	background-color:#f7ad2e;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 36px;
+	text-decoration:none;
+}
+.btn-spin:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #5a2900), color-stop(1, #f7ad2e));
+	background:-moz-linear-gradient(top, #5a2900 5%, #f7ad2e 100%);
+	background:-webkit-linear-gradient(top, #5a2900 5%, #f7ad2e 100%);
+	background:-o-linear-gradient(top, #5a2900 5%, #f7ad2e 100%);
+	background:-ms-linear-gradient(top, #5a2900 5%, #f7ad2e 100%);
+	background:linear-gradient(to bottom, #5a2900 5%, #f7ad2e 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5a2900', endColorstr='#f7ad2e',GradientType=0);
+	background-color:#5a2900;
+}
+.btn-spin:active {
+	position:relative;
+	top:1px;
+}
